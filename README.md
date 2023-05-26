@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hamzoozz
-- 👀 I’m interested in Compter Science 
-- 🌱 I’m currently learning several programming languages
+- 👋 Hi, I’m Hamza
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning programming languages 
 - 💞️ I’m looking to collaborate on large projects with big companies
-- 📫 How to reach me ...
+- 📫 Visit my linkedIn: https://www.linkedin.com/in/hamza-banyhany-19b333238/ 
 
 <!---
 Hamzoozz/Hamzoozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
