@@ -2,7 +2,7 @@
 
 **`Computer Science Student (Software Engineer/Web & App Developer/UI & UX Designer)`**
 
-Hi, I’m Hamza, a dedicated Senior at FAU pursuing a Bachelor of Science in Computer Science. My passion for programming drives me to continuously learn and explore new technologies. I thrive on solving complex problems with a determined attitude and have experience with various programming languages. My ultimate goal is to become a skilled software engineer, focusing on developing innovative software and applications. I am actively seeking opportunities to grow and learn from mentors, striving for excellence in my field.
+Hi, I’m Hamza, a dedicated Senior at FAU pursuing a Bachelor of Science in Computer Science. My passion for programming motivates me to continuously learn, explore new technologies, and tackle complex problems. I have experience with various programming languages, particularly in developing software and web applications. My ultimate goal is to become a skilled software engineer and make a positive impact. I am actively seeking opportunities to grow and learn from mentors while striving for excellence in my field.
 
    <p align="left">
       <a href="https://github.com/Hamzoozz?tab=followers">
